@@ -45,13 +45,9 @@ npm start
 
 Ready to explore property opportunities in East Anglia? Get in touch to discuss your investment goals.
 
-**Website**: [zenithera.com](https://zenithera.com)  
+**Website**: [zenithera.co.uk](https://zenithera.co.uk)  
 **Location**: Suffolk & Norfolk, East Anglia
 
-## 📄 License
-
-© 2025 Zenithera Ltd. All rights reserved.  
-Company No. 15876999
 
 ---
 
