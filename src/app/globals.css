@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}
+
+@layer utilities {
+  .hero-pattern {
+    background-image: 
+      linear-gradient(rgba(30, 41, 59, 0.08) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(30, 41, 59, 0.08) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+}
+
+@layer components {
+  .hero-headline {
+    @apply text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl;
+    line-height: 1.2;
+  }
+  
+  .hero-accent {
+    position: relative;
+  }
+  
+  .hero-accent::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, rgba(30, 41, 59, 0.3), rgba(30, 41, 59, 0.1));
+    border-radius: 2px;
+  }
+  
+  .section-headline {
+    @apply text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl;
+  }
+  
+  .section-subheadline {
+    @apply text-base font-semibold leading-7 text-secondary-500;
+  }
+  
+  .section-description {
+    @apply text-lg leading-8 text-gray-600;
+  }
+}
