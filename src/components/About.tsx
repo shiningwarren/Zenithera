@@ -3,8 +3,8 @@ import { Button } from '@/components/ui/Button'
 
 const features = [
   'Local Market Expertise',
-  'Extensive training in multiple property strategies',
-  'Commercial Investment Focus'
+  'Targeted Refurbishment Uplift',
+  'Flexible Exit Planning'
 ]
 
 const stats = [
@@ -24,7 +24,7 @@ export default function About() {
             </h2>
             <p className="section-description mt-6">
             Zenithera combines hands-on project delivery with advanced training and a trusted professional network<br />
-            to create secure property investment opportunities across Suffolk & Norfolk.
+            to create secure property investment opportunities across East Anglia.
             </p>
           </div>
           <dl className="mt-16 grid grid-cols-1 gap-x-8 gap-y-16 sm:mt-20 sm:grid-cols-2 lg:grid-cols-3">
@@ -43,11 +43,11 @@ export default function About() {
           <div className="grid grid-cols-1 gap-x-8 gap-y-6 text-base leading-7 text-gray-600 sm:grid-cols-2 lg:gap-y-8 lg:items-center">
             <div className="border-r border-gray-200 pr-8 text-center">
               <h3 className="text-lg font-semibold text-gray-900 mb-4">Why Choose Zenithera?</h3>
-              <p className="text-gray-600 mb-6">
-                Zenithera combines rigorous deal analysis with market leading tools and AI-powered insights. Each opportunity is further reviewed by experienced property coaches. This ensures each project is fully assessed, de-risked and structured for long-term investor success.
+              <p className="text-gray-600 max-w-md mx-auto">
+                Zenithera combines disciplined deal analysis with practical refurbishment experience to identify strong below-market opportunities. Each project is assessed for risk, uplift potential, and realistic long-term performance.
               </p>
             </div>
-            <div className="pl-8">
+            <div className="pl-12 lg:pl-16">
               <div className="space-y-4">
                 {features.map((feature, index) => (
                   <div key={index} className="flex items-center space-x-3">

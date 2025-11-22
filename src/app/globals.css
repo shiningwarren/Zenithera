@@ -15,8 +15,8 @@
 @layer utilities {
   .hero-pattern {
     background-image: 
-      linear-gradient(rgba(30, 41, 59, 0.08) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(30, 41, 59, 0.08) 1px, transparent 1px);
+      linear-gradient(rgba(30, 41, 59, 0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(30, 41, 59, 0.04) 1px, transparent 1px);
     background-size: 40px 40px;
   }
 }

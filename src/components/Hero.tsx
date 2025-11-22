@@ -17,7 +17,7 @@ export default function Hero() {
   }
 
   return (
-    <div className="relative isolate bg-white hero-pattern">
+    <div className="relative isolate bg-gray-50 hero-pattern">
       <div className="mx-auto max-w-7xl px-6 pt-52 pb-24 sm:px-6 sm:pt-60 sm:pb-32 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
           <h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl lg:text-5xl" style={{lineHeight: '1.4'}}>
@@ -25,7 +25,7 @@ export default function Hero() {
           <span className="text-secondary-500 hero-accent">Strategies That Deliver</span>
           </h1>
           <p className="mt-4 text-lg leading-8 text-gray-600">
-            Professional property investments specializing in commercial conversions, strategic land planning, and high ROI deals across Suffolk and Norfolk.
+            We secure BMV properties across East Anglia, add value through targeted refurbishments, and recycle capital through a proven buy, refurbish, and refinance approach with multiple exit strategies
           </p>
           <div className="mt-10 flex flex-row items-center justify-center gap-x-3 sm:gap-x-6">
             <Button 

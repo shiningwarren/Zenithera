@@ -93,7 +93,7 @@ export default function Header() {
             <button onClick={() => scrollToSection('hero')} className="-m-1.5 p-1.5 lg:ml-4">
               <span className="sr-only">Zenithera Property Investments</span>
               <img
-                className="h-16 w-auto"
+                className="h-12 w-auto"
                 src="https://res.cloudinary.com/dcm0m5nrt/image/upload/v1757667991/Zenithera-Logo-black_endi3o.svg"
                 alt="Zenithera Property Investments"
               />

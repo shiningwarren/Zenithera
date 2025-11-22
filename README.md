@@ -1,12 +1,12 @@
 # Zenithera Property Investments
 
-Professional property investment website specializing in commercial conversions, serviced accommodation, and strategic land planning across Suffolk & Norfolk.
+Professional property investment website specialising in below-market value acquisitions, refurbishment-led uplift, and strong exit planning across East Anglia.
 
 ## 🏢 Services
 
-- **Commercial Conversions**: Acquisition and conversion of pubs, mixed-use and retail properties
-- **Serviced Accommodation**: High-yield short-term rental strategies
-- **Strategic Land Planning**: Planning applications and development opportunities
+- **BMV Sourcing**: Using local East Anglia knowledge to identify below-market value opportunities across Suffolk, Norfolk, Cambridgeshire and North Essex — with auctions being a core acquisition route
+- **Refurb & Uplift**: Adding value through targeted refurbishments — kitchens, bathrooms, layout improvements, energy upgrades — depending on the property's needs and ROI
+- **BRR & Exit Strategies**: Recycling capital through refinance, or exit via an AST rental, Serviced Accommodation, or a resale flip depending on what produces the strongest return
 
 ## 🚀 Tech Stack
 
@@ -51,4 +51,4 @@ Ready to explore property opportunities in East Anglia? Get in touch to discuss 
 
 ---
 
-*Professional property investment strategies delivering reliable returns across East Anglia.*
+*Professional property investments specialising in below-market value acquisitions, refurbishment-led uplift, and strong exit planning across East Anglia.*

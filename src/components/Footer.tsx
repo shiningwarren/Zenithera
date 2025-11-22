@@ -11,13 +11,13 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-3">
               <img
-                className="h-16 w-auto brightness-0 invert"
+                className="h-12 w-auto brightness-0 invert"
                 src="https://res.cloudinary.com/dcm0m5nrt/image/upload/v1757667991/Zenithera-Logo-black_endi3o.svg"
                 alt="Zenithera Property Investments"
               />
             </div>
             <p className="text-sm leading-6 text-gray-300">
-            Professional property investments specializing in commercial conversions, strategic land planning, and high ROI deals across Suffolk and Norfolk.
+            Professional property investments specialising in below-market value acquisitions, refurbishment-led uplift, and strong exit planning across East Anglia.
             </p>
           </div>
           <div className="mt-16 xl:col-start-3 xl:mt-0 xl:flex xl:items-center">

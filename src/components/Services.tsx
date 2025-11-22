@@ -1,20 +1,20 @@
-import { Building, MapPin, Users } from 'lucide-react'
+import { Search, Hammer, TrendingUp } from 'lucide-react'
 
 const services = [
   {
-    name: 'Commercial Deals',
-    description: 'Acquisition and conversion of pubs, mixed-use and retail properties that unlock new value and deliver strong investor returns.',
-    icon: Building,
+    name: 'BMV Sourcing',
+    description: 'Using local East Anglia knowledge, we identify below-market value opportunities across Suffolk, Norfolk, Cambridgeshire and North Essex — with auctions being a core acquisition route.',
+    icon: Search,
   },
   {
-    name: 'Land Planning',
-    description: 'Planning applications, development opportunities and strategic land acquisition that secure long-term growth.',
-    icon: MapPin,
+    name: 'Refurb & Uplift',
+    description: "We add value through targeted refurbishments — kitchens, bathrooms, layout improvements, energy upgrades — depending on the property's needs and ROI.",
+    icon: Hammer,
   },
   {
-    name: 'Partnership Opportunities',
-    description: 'Collaborative investment structures developed to create shared success and lasting wealth opportunities for all.',
-    icon: Users,
+    name: 'BRR & Exit Strategies',
+    description: 'Recycle capital through refinance, or exit via an AST rental, Serviced Accommodation, or a resale flip depending on what produces the strongest return.',
+    icon: TrendingUp,
   },
 ]
 
@@ -28,7 +28,7 @@ export default function Services() {
           How We Deliver Value
           </p>
           <p className="section-description mt-6">
-          We specialise in three high-growth strategies across Suffolk & Norfolk, supported by strong investor partnerships
+          We specialise in three high-growth strategies across East Anglia, supported by strong investor partnerships
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
